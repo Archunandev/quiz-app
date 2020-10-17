@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coronoquiz</string>
+    <string name="but_start">Start test</string>
+    <string name="but_info">Information</string>
+    <string name="but_faq">FAQ</string>
+    <string name="disclaimer">Disclaimer:The MDQ is a scientifically-supported,sel-administered instrument used
+    to screen for covid-19 virus.This is Not a diagnostic test.if you are concerned about covid-19,please consult your healthcare
+    provider or government health professional.</string>
+</resources>
